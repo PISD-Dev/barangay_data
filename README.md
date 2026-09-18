@@ -1,7 +1,7 @@
 # Philippine Barangay Officials — 2023 BSKE
 
 ## Latest Release - Ver 1.0
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](CONTRIBUTING.md)
 
 ## Description
 
