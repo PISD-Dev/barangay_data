@@ -1,4 +1,4 @@
-# Contributions
+# Contributing
 
 Contributions to the main dataset are welcome. Any proposed corrections, additions, or other changes should be supported by a reliable source and documented separately from the main dataset.
 
