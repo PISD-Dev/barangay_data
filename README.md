@@ -13,6 +13,7 @@ A structured dataset of Barangay Officials from the National Capital Region elec
 The original data source may contain errors, omissions, and inconsistencies. These may include missing or incomplete telephone numbers, malformed or incorrectly formatted phone numbers, incorrect or misspelled names of officials, and other inaccuracies in the recorded information.
 
 While reasonable efforts have been made to clean, standardize, and validate the dataset, errors from the original source may remain. The cleaned dataset should therefore not be treated as an authoritative or error-free record. Users are encouraged to verify individual records against official or primary sources when accuracy is critical.
+
 ## Coverage
 
 - Country: Philippines
@@ -20,7 +21,7 @@ While reasonable efforts have been made to clean, standardize, and validate the 
 - Election: 2023 BSKE
 - Geographic level: Barangay
 
-# Data Dictionary
+## Data Dictionary
 
 | Field | Description |
 |---|---|
@@ -46,6 +47,7 @@ Department of the Interior and Local Government (DILG), **Barangay Officials Dir
 - [Barangay Officials Directory — Masterlist](https://www.dilg.gov.ph/barangay-officials-directory/masterlist)
 
 Accessed: **September 18 2026**
+
 ## Processing
 
 Processing included:
