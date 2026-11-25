@@ -1,12 +1,13 @@
-# Philippine Barangay Officials — 2023 BSKE
+# Philippine Barangay Officials — (2023-Present) 
 
 ## Latest Release - Ver 1.0
 [Contribution guidelines for this project](CONTRIBUTING.md)
 
 ## Description
 
-A structured dataset of Barangay Officials from the National Capital Region elected in the
-2023 Barangay and Sangguniang Kabataan Elections. This dataset was consolidated by the Philippine Institute for Student Democracy (PISD) Inc. based on publicly available data from the Department of Interior and Local Government (DILG) 
+A structured dataset of Barangay Officials from  elected in the 2023 Barangay and Sangguniang Kabataan Elections. Specifically this dataset currently contains data for Barangay Officials from the National Capital Region at this time.
+
+This dataset was consolidated by the Philippine Institute for Student Democracy (PISD) Inc. based on publicly available data from the Department of Interior and Local Government (DILG) 
 
 ## Disclaimer
 
@@ -80,6 +81,8 @@ than an independent verification of every record.
 ## Next Steps
 
 Following the release of this initial dataset, further efforts will be undertaken to identify and resolve errors using publicly available sources. Obvious spelling errors, inconsistent contact details, and other discrepancies will be reviewed and corrected where they can be reliably verified. All corrections will be documented to maintain a transparent record of changes from the original source data.
+
+Future releases would involve the addition of data from other Regions in an incremental manner.
 
 
 ## License
